@@ -20,6 +20,7 @@ A aplicação foi feita com React, utilição componentização e estado global,
 ## Screenshots
 
 <div>
+<img src="./screenshots/wallet.gif" alt="página" width=900 >
 <img src="./screenshots/login.png" alt="página inicial de login " width=300 >
 <img src="./screenshots/table.png" alt="página de despesas " width=500 >
 </div>
